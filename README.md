@@ -1,5 +1,5 @@
 ```cs
-local sex = loadstring(game:HttpGet('https://raw.githubusercontent.com/3345-c-a-t-s-u-s/Garry-UI/main/source'))()
+local sex = loadstring(game:HttpGet("https://raw.githubusercontent.com/TsouHub/Garry-UI/refs/heads/main/source"))()
 
 local Window = sex:Create('BEDOL HUB','BLADE BALL','TESTER')
 local ExampleTab = Window:CreateTab('Example','earth')
