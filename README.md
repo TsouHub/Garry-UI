@@ -1,4 +1,4 @@
-```cs
+```lua
 local sex = loadstring(game:HttpGet("https://raw.githubusercontent.com/TsouHub/Garry-UI/refs/heads/main/source"))()
 
 local Window = sex:Create('BEDOL HUB','BLADE BALL','TESTER')
