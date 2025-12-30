@@ -23,8 +23,6 @@ local function cretate_button(asd)
 	return button
 end
 
-local Icons = game:GetService('HttpService'):JSONDecode(game:HttpGet("https://raw.githubusercontent.com/evoincorp/lucideblox/master/src/modules/util/icons.json"))
-
 local function ccp(ui:UIListLayout)
 	if ui.Parent.ClassName=="ScrollingFrame" then
 		local pp:ScrollingFrame=ui.Parent
